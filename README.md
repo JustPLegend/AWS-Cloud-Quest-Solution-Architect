@@ -18,4 +18,46 @@ Solutions for this 🎮 are on [SAA CloudQuest youtube. ](https://www.youtube.co
 13. [CloudQuest SAA-Automation with CloudFormation(solution)](https://www.youtube.com/watch?v=sZFTub5HbVI&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=13)
 14. [CloudQuest SAA-Resource Monitoring (lessons)](https://www.youtube.com/watch?v=Qg54_wv2EJ8&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=14)
 15. [CloudQuest SAA Resource Monitoring (solution)](https://www.youtube.com/watch?v=E1LxxCKTHZo&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=15)
-16. 
+16. [CloudQuest SAA-Container Service-(lessons)](https://www.youtube.com/watch?v=daDsADsvAmk&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=18)
+17. [CloudQuest SAA Container Service(practice without solution)](https://www.youtube.com/watch?v=daKN_fpt_aM&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=19)
+18. [CloudQuest SAA Container Service(solution)](https://www.youtube.com/watch?v=2Y-HRqSa3aE&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=20)
+19. [CloudQuest SAA Decoupling Applications(lessons)](https://www.youtube.com/watch?v=cX_dkQUDY50&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=21)
+
+20. [CloudQuest SAA Decoupling Applications(solution)](https://www.youtube.com/watch?v=aPdinFQrM58&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=22)
+21. [CloudQuest SAA- Data Ingestion Methods(lessons)](https://www.youtube.com/watch?v=eNitX4BOTn0&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=23)
+22. [CloudQuest SAA - Data Ingestion Methods(practice-part1)](https://www.youtube.com/watch?v=MtifnO2fOJs&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=24)
+23. [CloudQuest SAA- Data Ingestion Methods-(practice part2)](https://www.youtube.com/watch?v=KYQp7FfiISo&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=25)
+24. [Cloud Quest-Solution-Architect- Data Ingestion Methods(solution final)](https://www.youtube.com/watch?v=B7xLl-gIVLc&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=26)
+25. [CloudQuest SAA-Backing Up Data-(lessons)](https://www.youtube.com/watch?v=pOP-JzFAqfo&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=27)
+26. [CloudQuest SAA Backing Up Data(practice without solution)](https://www.youtube.com/watch?v=HQQih8DARiY&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=28)
+27. [CloudQuest SAA API with Database(lessons)](https://www.youtube.com/watch?v=8CMYiCe4W0Y&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=29)
+28. [CloudQuest SAA API with Database(practice without solution)](https://www.youtube.com/watch?v=3Oqt7UFVt4I&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=30)
+29. [CloudQuest SAA -API with Database(solution+some tips)](https://www.youtube.com/watch?v=bznyQ8so2Gs&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=31)
+30. [CloudQuest SAA Resource Governance(lessons)](https://www.youtube.com/watch?v=nFV_vl6Pp6I&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=32)
+31. [CloudQuest SAA Resource Governance(solution)](https://www.youtube.com/watch?v=mt0I-j_JWL4&list=PL5wpffL0WhBRqqWjL1a7Ly3KVk5cQ7N7q&index=33)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
